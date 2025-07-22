@@ -1,2 +1,2 @@
 # python_assignment_week04
-thing
+To learn how to use git, modules and packages, and  Real-world problem in dictionary and list comprehension
